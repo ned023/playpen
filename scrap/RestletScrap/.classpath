@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.codehaus.woodstox_4.3/org.codehaus.woodstox.stax2api.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.codehaus.woodstox_4.3/org.codehaus.woodstox.core.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jackson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Restlet"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.apache.httpcore_4.3/org.apache.httpcore.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.apache.httpclient_4.3/org.apache.httpclient.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/javax.mail_1.4/javax.mail.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.apache.commons.pool_1.5/org.apache.commons.pool.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.client.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.http.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.io.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.server.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.client.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.core.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.common.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.server.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.server.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.util.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.apache.commons.collections_3.2/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.jaxb.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.restlet.ext.jackson.jar"/>
+	<classpathentry kind="lib" path="/Users/graeme/Documents/Work/Dev/restlet-jse-2.3.10/lib/org.restlet.ext.xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
